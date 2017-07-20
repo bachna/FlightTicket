@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es5",
+        "sourceMap": true
+    },
+    "exclude": [
+        "node_modules"
+    ],
+    "require": {
+        "fzaninotto/faker": "^1.6",
+        "kwn/number-to-words": "^1.3",
+        "mpdf/mpdf":"^6.1"
+    }
+}
